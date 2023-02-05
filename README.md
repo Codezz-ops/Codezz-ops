@@ -12,7 +12,8 @@ Skills and Technologies
 
    Here are some of the projects I've worked on that demonstrate my skills and interests:
 
-    Nebula: A interactive hacking shell for making hacking easier \
+    Nebula: A interactive hacking shell for making hacking easier
+    BinaryConversion: A simple conversion project to convert deciaml IP's to Hexadecimal IP's
 
 # Contact Me
     
