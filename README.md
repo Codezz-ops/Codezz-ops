@@ -5,15 +5,15 @@ Hi, I'm Codezz-ops, a software developer with a passion for creating innovative 
 I love learning and exploring new technologies, and I'm always on the lookout for new challenges to tackle. Whether I'm working on a new project or contributing to an open-source project, I'm driven by the excitement of creating something new and making a positive impact.
 Skills and Technologies
 
-    Proficient in: Python, JavaScript, C++, and Shell
-    Experienced with: CLI development (Python, C++)
+    Proficient in: Python, C++, and Shell
+    Experienced with: CLI development (Python, C++, C)
 
 # Projects
 
    Here are some of the projects I've worked on that demonstrate my skills and interests:
 
+    QuantaSim: Qsim is a C library for building physics simulations.
     Nebula: A interactive hacking shell for making hacking easier
-    BinaryConversion: A simple conversion project to convert deciaml IP's to Hexadecimal IP's
 
 # Contact Me
     
