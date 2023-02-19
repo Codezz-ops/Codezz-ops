@@ -13,7 +13,7 @@ Skills and Technologies
    Here are some of the projects I've worked on that demonstrate my skills and interests:
 
     QuantaSim: Qsim is a C library for building physics simulations.
-    Nebula: A interactive hacking shell for making hacking easier
+    Nebula: A interactive hacking shell for making hacking easier.
 
 # Contact Me
     
