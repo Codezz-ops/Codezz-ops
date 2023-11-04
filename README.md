@@ -5,7 +5,7 @@ Hi, I'm Codezz-ops, a software developer with a passion for creating innovative 
 I love learning and exploring new technologies, and I'm always on the lookout for new challenges to tackle. Whether I'm working on a new project or contributing to an open-source project, I'm driven by the excitement of creating something new and making a positive impact.
 Skills and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,go,c)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,go,c)]
 
 # Projects
 
