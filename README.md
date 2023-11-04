@@ -5,7 +5,7 @@ Hi, I'm Codezz-ops, a software developer with a passion for creating innovative 
 I love learning and exploring new technologies, and I'm always on the lookout for new challenges to tackle. Whether I'm working on a new project or contributing to an open-source project, I'm driven by the excitement of creating something new and making a positive impact.
 Skills and Technologies
 
-    Proficient in: C, Javascript, ASM
+![My Skills](https://skillicons.dev/icons?i=linux,vscode,go,c)
 
 # Projects
 
@@ -21,5 +21,3 @@ If you have any questions, comments, or just want to say hi, feel free to reach 
 
 # My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codezz-ops&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![My Skills](https://skillicons.dev/icons?i=linux,vscode,go,c)
