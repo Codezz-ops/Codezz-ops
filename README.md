@@ -21,7 +21,5 @@ If you have any questions, comments, or just want to say hi, feel free to reach 
 
 # My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codezz-ops&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![My Skills](https://skillicons.dev/icons?i=linux,vscode,go,c)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=codezz-ops&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
