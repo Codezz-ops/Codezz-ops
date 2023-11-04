@@ -22,5 +22,5 @@ If you have any questions, comments, or just want to say hi, feel free to reach 
 
 # My Most Used Languages
 <p align="center">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codezz-ops&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codezz-ops&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
