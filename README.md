@@ -6,7 +6,7 @@ I love learning and exploring new technologies, and I'm always on the lookout fo
 Skills and Technologies
 
 # My tools
-![My Skills](https://skillicons.dev/icons?i=linux,bash,go,c)
+![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,go,c)
 
 # Projects
 
