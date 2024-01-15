@@ -14,7 +14,7 @@ I'm always eager to explore new technologies and thrive on exciting challenges. 
 Here are a few of the projects I've worked on, showcasing my skills and interests:
 
 - **Pegasus**: An interactive hacking shell designed to simplify hacking tasks.
-- **QuantaSim**: Qsim is a C library for building physics simulations.
+- **Obsidain**: Obsidian is a high-level general purpose programming language. 
 - **Unicode-Print**: A custom-built C library for printing Unicode characters.
 
 ## Contact Me
