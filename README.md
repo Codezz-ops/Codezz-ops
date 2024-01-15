@@ -7,7 +7,7 @@ I'm always eager to explore new technologies and thrive on exciting challenges. 
 ## Skills and Technologies
 
 ### My Tools
-![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,go,docker,cpp,nvim)
+![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,go,docker,cpp,neovim)
 
 ## Projects
 
