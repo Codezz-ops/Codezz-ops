@@ -15,7 +15,7 @@ Here are a few of the projects I've worked on, showcasing my skills and interest
 
 - **Pegasus**: An interactive hacking shell designed to simplify hacking tasks.
 - **Obsidain**: Obsidian is a high-level general purpose programming language. 
-- **Unicode-Print**: A custom-built C library for printing Unicode characters.
+- **WhaleC**: C based docker container manager. 
 
 ## Contact Me
 
